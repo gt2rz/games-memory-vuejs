@@ -1,4 +1,5 @@
 # games-memory-vuejs
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+A memory game development in vuejs...
+>>>>>>> d9c0adc21f788f99205976b429e66f3b8ab6a37c
